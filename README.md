@@ -9,7 +9,7 @@
 
 # monkey, mod, manager, V2
 
- this is for the casting mod
+ monkey Man, it's where you can install mods onto gorilla tag
 
 </header>
 
