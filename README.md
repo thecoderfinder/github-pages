@@ -9,7 +9,7 @@
 
 # monkey, mod, manager, V2
 
-_ this is for the casting mod_
+ this is for the casting mod
 
 </header>
 
@@ -21,7 +21,7 @@ _ this is for the casting mod_
 
 ## Welcome
 
-these two monkey manager might look similar, but if they are different
+The monkey manager might look similar, but it is different
 
 
 
