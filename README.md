@@ -9,7 +9,7 @@
 
 # monkey, mod, manager, V2
 
- monkey Man, it's where you can install mods onto gorilla tag
+ monkey Mod manager, it's where you can install mods onto gorilla tag
 
 </header>
 
