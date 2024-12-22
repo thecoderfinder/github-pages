@@ -9,7 +9,7 @@
 
 # monkey, mod, manager, V2
 
-_ these are for the casting mod_
+_ this is for the casting mod_
 
 </header>
 
