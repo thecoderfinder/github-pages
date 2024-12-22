@@ -10,6 +10,7 @@
 # monkey, mod, manager, V2
 
  monkey Mod manager, it's where you can install mods onto gorilla tag
+ and also mods you found online like Yeezy's camera mod 
 
 </header>
 
