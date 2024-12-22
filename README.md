@@ -23,7 +23,7 @@ _ this is for the casting mod_
 
 these two monkey manager might look similar, but if they are different
 
-### How to start this course
+
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
